@@ -1,8 +1,8 @@
 #include<stdio.h>
 
-void test()
+void test(char *strMsg)
 {
-	printf("this is for test...\n");
+	printf("test called: %s\n", strMsg);
 }
 
 int main()
