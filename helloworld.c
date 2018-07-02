@@ -1,6 +1,6 @@
-to be or not to be, that is the question.
-this is for test
-some one kown about git.
+#include<stdio.h>
 
-
-abc
+int main()
+{
+	printf("hello world!\n");
+}
