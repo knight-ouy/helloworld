@@ -1,8 +1,10 @@
+//git test
 #include<stdio.h>
 
-void test(char *strMsg)
+
+void GitTest(char *strMsg)
 {
-	printf("test called: %s\n", strMsg);
+	printf("This is for git test: %s\n", strMsg);
 }
 
 int main()
