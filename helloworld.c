@@ -1,6 +1,10 @@
 //git test
 #include<stdio.h>
 
+void Log()
+{
+	return 0;
+}
 
 void GitTest(char *strMsg)
 {
